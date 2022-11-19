@@ -15,3 +15,6 @@ Caso os dois esteja com saldo negativos, somente o Cliente especial pode efetuar
 
 ![image](https://user-images.githubusercontent.com/100521198/200094794-3b0ba148-c565-4923-9903-3cf89bc43e6b.png)
 
+![image](https://user-images.githubusercontent.com/100521198/202830597-0e3fd901-3483-4e7c-9e62-8e0bff2236dc.png)
+![image](https://user-images.githubusercontent.com/100521198/202830607-a0359a03-fd51-457f-a722-9a12c900cc1b.png)
+![image](https://user-images.githubusercontent.com/100521198/202830629-a8d97f84-8e60-4faf-b571-73664f82634c.png)
